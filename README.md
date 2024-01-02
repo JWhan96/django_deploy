@@ -42,3 +42,4 @@
 [AWS 홈페이지](https://aws.amazon.com/ko/console/)
 [Django 서비스 AWS로 배포하기-네로](https://nerogarret.tistory.com/45)
 [AWS로 django 서비스 배포하기 (Windows)](https://opheliesaysone.tistory.com/48)
+[리눅스와 우분투](https://hanamon.kr/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%EC%9A%B0%EB%B6%84%ED%88%AC%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
